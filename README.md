@@ -1,5 +1,5 @@
 # Bidir_HRC
-This repository contains codes for a robot system combining speech recognition, TTS, object detection and robot control:
+This repository contains codes for a robot system combining speech recognition, TTS, object detection and robot control to enable bidirectional verbal communication in HRC:
 
   * perception_fusion.py: The main code of the system that combines the robot control, voice commands and object detection.
   * speech_perception.py: The action code that handles the speech recognition and TTS. Creoir Edge VUI SDK is utilized for speech recognition and TTS, see: https://creoir.com/edgevui/
