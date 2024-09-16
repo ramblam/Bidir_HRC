@@ -9,3 +9,5 @@ This repository contains codes for a robot system combining speech recognition, 
 The demo video:
 
 [![Watch the video](https://img.youtube.com/vi/7vJrGNcnmt4/maxresdefault.jpg)](https://youtu.be/7vJrGNcnmt4)
+
+In case the embedded image link doesn't work, here is a direct link: 
