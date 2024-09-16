@@ -7,4 +7,4 @@ This repository contains codes for a robot system combining speech recognition, 
   * Opendr_control directory: Contains the lower-level implementations for controlling the robot and gripper, such as pick&place. Largely based on MoveIt (http://moveit.ros.org/) and OpenDR (https://github.com/opendr-eu/opendr).
 
 The demo video:
-(add link or whole video here!)
+Link: https://youtu.be/7vJrGNcnmt4 
